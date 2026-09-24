@@ -70,7 +70,7 @@ Both models agree on the direction for pollutants, and the weather scenario bare
 
 ## Running the analysis
 
-Tested with R 4.3.3. Missing R packages are installed from CRAN automatically on the first run.
+Requires R 4.3 or newer (the current xgboost package needs it); tested with R 4.3.3. Missing R packages are installed from CRAN automatically on the first run, so the first run needs an internet connection.
 
 1. Download `air_quality_health_impact_data.csv` from Kaggle and put it in the `veri/` folder.
 2. From the project folder run:

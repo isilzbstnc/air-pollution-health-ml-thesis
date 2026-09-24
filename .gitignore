@@ -1,0 +1,11 @@
+# The dataset is not included; download it from Kaggle into veri/
+veri/*
+!veri/.gitkeep
+
+# Program outputs
+ciktilar/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
